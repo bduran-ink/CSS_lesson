@@ -1,0 +1,36 @@
+h1 {
+font-family: Goudy Old Style;
+background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+h3 {
+    display: block;
+    text-align: center;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+
+
+body {
+   background-image:url(s-l400.jpg); 
+}
+
+p {
+    display: block;
+    text-align: center;
+}
