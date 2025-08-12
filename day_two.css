@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: chartreuse;
+}
+#image-tonga {
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+#image-star{
+    display: block;
+    
+}
