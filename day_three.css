@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#card-contan {
+    display: flex;
+    background-color: rgb(52, 165, 42);
+    width: 95%;
+    
+}
+
+.trading-card { 
+    width: auto;
+    height: 33%;
+    background-color: azure;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 2%;
+}
+
+.profile {
+    width: 50%;
+    height: 40%;
+    border-radius: 20%;
+    border-color: rgb(138, 197, 195);
+    border-width: 10%;
+    border-style: solid;
+}
